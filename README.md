@@ -12,6 +12,14 @@
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
+1. DevOps merupakan cara kerja di mana tim developer dan tim operasi bekerja sama untuk membuat dan mengelola perangkat lunak
+2. infrastructure adalah semua perangkat yang dibutuhkan agar suatu teknologi dapat berjalan
+3. Server adalah komputer yang menyediakan layanan ke komputer lain, contoh penggunaan server yaitu Web Server, web server menyajikan situs web ke pengguna, seperti saat membuka suatu website contohnya website netflix
+4. Server dibutuhkan agar memudahkan banyak pengguna dalam mengakses software yang sedang dikembangkan
+5. Virtualisasi merupakan teknologi yang memungkinkan komputer fisik untuk menjalankan beberapa Virtual Machine secara bersamaan. Container merupakan cara untuk menjalankan suatu aplikasi di mana saja
+6. Teknologi Container saat ini populer karena mempercepat pengembangan suatu aplikasi
+7. Orchestration Container System adalah sistem yang digunakan untuk mengatur dan mengelola container
+
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
